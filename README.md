@@ -1,6 +1,6 @@
-- 👋 I’m David Motari A.K.A @under-ground-dog
-- 👀 I’m interested in FullStack Web Development
+- 👋 I’m David Motari from Nairobi Kenya
+- 👀 A FullStack Web Developer working with MERN and LAMP stacks.
 - 🌱 I’m an ALX Software Engineering Student
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me davemotari22@gmail.com
+- 📫 Reach me thhrough davemotari22@gmail.com
 - 

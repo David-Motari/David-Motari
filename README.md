@@ -2,5 +2,4 @@
 - 👀 A FullStack Web Developer working with MERN and LAMP stacks.
 - 🌱 I’m an ALX Software Engineering Student
 - 💞️ I’m looking to collaborate on new projects
-- 📫 Reach me thhrough davemotari22@gmail.com
-- 
+- 📫 Reach me through davemotari22@gmail.com

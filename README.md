@@ -15,5 +15,5 @@
 [![website][6.1]][6]
 <!---->
 ## Things I code with:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,CSS,angular,react,nodejs,py,ts,MongoDB,postgres,redis,docker,git,vim,md,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,nodejs,py,ts,mongodb,postgres,redis,docker,git,vim,md,)](https://skills.thijs.gg)
 

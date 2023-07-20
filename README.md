@@ -8,9 +8,9 @@
 ---
 ## Connect with me: 🤝
 <!--Social icons-->
-<a href="https://www.linkedin.com/in/david-motari/"><img align="left" src="./email(1).png" alt="David-Motari | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/dave_motari"><img align="left" src="./instagram.png" alt="David-Motari | Instagram" width="21px"/></a>
-<a href="https://twitter.com/david_motari"><img align="left" src="./twitter-sign.png" alt="David-Motari | Twitter" width="21px"/></a>
+<a href="https://www.linkedin.com/in/david-motari/"><img align="left" src="https://raw.githubusercontent.com/David-Motari/David-Motari/main/images/linkedin-logo.png" alt="David-Motari | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/dave_motari"><img align="left" src="https://raw.githubusercontent.com/David-Motari/David-Motari/main/images/instagram.png" alt="David-Motari | Instagram" width="21px"/></a>
+<a href="https://twitter.com/david_motari"><img align="left" src="https://raw.githubusercontent.com/David-Motari/David-Motari/main/images/twitter-sign.png" alt="David-Motari | Twitter" width="21px"/></a>
 ---
 ## Things I code with:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,nodejs,py,ts,mongodb,postgres,redis,docker,git,vim,md,)](https://skills.thijs.gg)

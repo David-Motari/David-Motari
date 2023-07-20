@@ -41,8 +41,8 @@
 
 ---
 
-## Things I code with:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,nodejs,py,ts,mongodb,postgres,redis,docker,git,vim,md,)](https://skills.thijs.gg)
+## Languages and Tools I utilize while coding:
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,nodejs,py,ts,mongodb,postgres,redis,docker,git,vim,md,vs)](https://skills.thijs.gg)
 
 ---
 

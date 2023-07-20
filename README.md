@@ -8,9 +8,41 @@
 ---
 ## Connect with me: 🤝
 <!--Social icons-->
-<a href="https://www.linkedin.com/in/david-motari/"><img align="left" src="https://raw.githubusercontent.com/David-Motari/David-Motari/main/images/linkedin-logo.png" alt="David-Motari | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/dave_motari"><img align="left" src="https://raw.githubusercontent.com/David-Motari/David-Motari/main/images/instagram.png" alt="David-Motari | Instagram" width="21px"/></a>
-<a href="https://twitter.com/david_motari"><img align="left" src="https://raw.githubusercontent.com/David-Motari/David-Motari/main/images/twitter-sign.png" alt="David-Motari | Twitter" width="21px"/></a>
+
+<!-- display the social media buttons in your README -->
+
+[![email][1.1]][1]
+[![github][2.1]][2]
+[![linkedin][3.1]][3]
+[![website][4.1]][4]
+[![twitter][5.1]][5]
+[![facebook][6.1]][6]
+[![instagram][7.1]][7]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: https://imgur.com/J33e4NH (email)
+[2.1]: https://imgur.com/bq4Dfjs (github)
+[3.1]: https://imgur.com/tQJ0Ot8 (linkedin)
+[4.1]: https://imgur.com/wCp6WYO (website)
+[5.1]: https://imgur.com/qHEl05V (twitter)
+[6.1]: https://imgur.com/U1isnuM (facebook)
+[7.1]: https://imgur.com/otqBMDq (instagram)
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: mailto:davemotari22@gmail.com
+[2]: https://www.github.com/David-Motari
+[3]: https:/www.linkedin/com/in/david-motari
+[4]: https://david-motari.github.io
+[5]: https://www.twitter.com/david_motari
+[6]: https://www.facebook.com/david.motari.3
+[7]: https:www.instagram.com/dave_motari
 ---
 ## Things I code with:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,nodejs,py,ts,mongodb,postgres,redis,docker,git,vim,md,)](https://skills.thijs.gg)

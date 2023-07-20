@@ -38,7 +38,9 @@
 [5]: https://www.twitter.com/david_motari
 [6]: https://www.facebook.com/david.motari.3
 [7]: https:www.instagram.com/dave_motari
+
 ---
+
 ## Things I code with:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,nodejs,py,ts,mongodb,postgres,redis,docker,git,vim,md,)](https://skills.thijs.gg)
 

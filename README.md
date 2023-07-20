@@ -5,6 +5,7 @@
 * 👯‍♂️ I'm open to collaborating on projects
 * 🤗 Pronouns: He/Him
 * ⚡Fun Fact: I'm an associate expert in Environmental Impact Assessment and Audit
+---
 ## Connect with me: 🤝
 <!--Social icons-->
 [![twitter][1.1]][1]
@@ -14,6 +15,15 @@
 [![instagram][5.1]][5]
 [![website][6.1]][6]
 <!---->
+---
 ## Things I code with:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,nodejs,py,ts,mongodb,postgres,redis,docker,git,vim,md,)](https://skills.thijs.gg)
 
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---

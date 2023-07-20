@@ -9,7 +9,7 @@
 ## Connect with me: 🤝
 <!--Social icons-->
 
-<!-- display the social media buttons in your README -->
+<!-- display the social media buttons in README -->
 
 [![email][1.1]][1]
 [![github][2.1]][2]
@@ -21,21 +21,16 @@
 
 
 <!-- links to social media icons -->
-<!-- no need to change these -->
 
-<!-- icons with padding -->
-
-[1.1]: ./email(1).png (email)
+[1.1]: ./gmail.png (email)
 [2.1]: ./github.png (github)
-[3.1]: ./linkedin-logo.png (linkedin)
+[3.1]: ./linkedin.png (linkedin)
 [4.1]: ./world-wide-web.png (website)
-[5.1]: ./twitter-sign.png (twitter)
-[6.1]: https://imgur.com/U1isnuM (facebook)
+[5.1]: ./twitter.png (twitter)
+[6.1]: ./facebook.png (facebook)
 [7.1]: ./instagram.png (instagram)
 
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
+<!-- links to my social media accounts -->
 [1]: mailto:davemotari22@gmail.com
 [2]: https://www.github.com/David-Motari
 [3]: https:/www.linkedin/com/in/david-motari

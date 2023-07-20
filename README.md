@@ -8,13 +8,9 @@
 ---
 ## Connect with me: 🤝
 <!--Social icons-->
-[![twitter][1.1]][1]
-[![facebook][2.1]][2]
-[![linkedin][3.1]][3]
-[![github][4.1]][4]
-[![instagram][5.1]][5]
-[![website][6.1]][6]
-<!---->
+<a href="https://www.linkedin.com/in/david-motari/"><img align="left" src="https://github.com/David-Motari/David-Motari/blob/main/email%20(1).png" alt="David-Motari | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/dave_motari"><img align="left" src="https://github.com/David-Motari/David-Motari/blob/main/instagram.png" alt="David-Motari | Instagram" width="21px"/></a>
+<a href="https://twitter.com/david_motari"><img align="left" src="https://github.com/David-Motari/David-Motari/blob/main/twitter-sign.png" alt="David-Motari | Twitter" width="21px"/></a>
 ---
 ## Things I code with:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,react,nodejs,py,ts,mongodb,postgres,redis,docker,git,vim,md,)](https://skills.thijs.gg)

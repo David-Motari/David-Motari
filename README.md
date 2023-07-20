@@ -25,13 +25,13 @@
 
 <!-- icons with padding -->
 
-[1.1]: https://imgur.com/J33e4NH (email)
-[2.1]: https://imgur.com/bq4Dfjs (github)
-[3.1]: https://imgur.com/tQJ0Ot8 (linkedin)
-[4.1]: https://imgur.com/wCp6WYO (website)
-[5.1]: https://imgur.com/qHEl05V (twitter)
+[1.1]: ./email(1).png (email)
+[2.1]: ./github.png (github)
+[3.1]: ./linkedin-logo.png (linkedin)
+[4.1]: ./world-wide-web.png (website)
+[5.1]: ./twitter-sign.png (twitter)
 [6.1]: https://imgur.com/U1isnuM (facebook)
-[7.1]: https://imgur.com/otqBMDq (instagram)
+[7.1]: ./instagram.png (instagram)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->

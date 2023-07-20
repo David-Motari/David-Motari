@@ -1,6 +1,6 @@
 ![github_background](https://github.com/David-Motari/David-Motari/assets/58317281/ef955c5f-f9c7-4116-8844-9edd572a0180)
 # I'm a FullStack Web Developer from Nairobi Kenya.
-* 🔭 I'm currently working on TechSpace project
+* 🔭 I'm currently working on TechSpaces project
 * 🌱 I'm doing Introduction to Programming for Data Science Nano Degree at Udacity
 * 👯‍♂️ I'm open to collaborating on projects
 * 🤗 Pronouns: He/Him
